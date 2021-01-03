@@ -34,4 +34,8 @@
 
 
 
+<<<<<<< HEAD
 [Transport Mode Choice for Commuting: Evidence from India](https://osf.io/preprints/socarxiv/qh8m5/) (with [S Chandrasekhar](http://www.igidr.ac.in/faculty/chandra/) and [Ajay Sharma](https://sites.google.com/site/ajayiim2015/home))
+=======
+[Transport Mode Choice for Commuting: Evidence from India](https://osf.io/preprints/socarxiv/qh8m5/) (with [S Chandrasekhar](http://www.igidr.ac.in/faculty/chandra/) and [Ajay Sharma](https://sites.google.com/site/ajayiim2015/home))
+>>>>>>> aedca7c3635d33a111d17b9f49337d24ec1d102f
