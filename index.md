@@ -17,3 +17,7 @@ My current research examines three aspects of Indian development story:
 
 
 A copy of my CV can be found [here](https://www.dropbox.com/s/6488h51g7c333dv/CV_SM.pdf).
+
+
+
+![profilephoto_sm](/_assets/profilephoto_sm.jpg)
