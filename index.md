@@ -13,3 +13,7 @@ My current research examines three aspects of Indian development story:
 -  The relationship between caste diversity and access to public goods in villages.
 -  Segregation in Indian cities.
 - The movement from farm to non-farm occupations (_structural transformation_).
+
+
+
+A copy of my CV can be found [here](https://www.dropbox.com/s/6488h51g7c333dv/CV_SM.pdf).
