@@ -11,7 +11,7 @@ My thesis looked into the issue of regional imbalances in Maharashtra. I show th
 My current research examines three aspects of Indian development story:
 
 -  The relationship between caste diversity and access to public goods in villages.
--  Segregation in Indian cities.
+-  The association between segregation and public goods in cities.
 - The movement from farm to non-farm occupations (_structural transformation_).
 
 
