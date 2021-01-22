@@ -5,13 +5,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		{{if hasmath}} {{insert head_katex.html }} 		{{end}}
         {{if hascode}} {{insert head_highlight.html }} 	{{end}}
-		   <link rel="stylesheet" href="/css/main.css">
+		   <link rel="stylesheet" href="/css/franklin.css">
 	        <link rel="icon" href="/assets/infra/favicon.png">
 		{{isdef title}} <title>{{fill title}}</title>	{{end}}
 	</head>
     <body>
 	        <header>
-            <div class="blog-name"><a href="/">Sumit Mishra</a></div>
+            <div class="blog-name"><a href="/"></a></div>
             <nav>
                 <ul>
                     <li><a href="/">Home</a></li>
@@ -19,7 +19,6 @@
                     <li><a href="/research/">Research</a></li>
 					<li><a href="/personal">Personal</a></li>
                 </ul>
-                <img src="/assets/infra/hamburger.svg" id="menu-icon">
             </nav>
         </header>
 
