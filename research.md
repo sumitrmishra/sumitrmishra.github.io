@@ -14,8 +14,9 @@
 
 
 
-[Fractal Urbanism: City Size and Residential Segregation in India](https://osf.io/preprints/socarxiv/3ycrb/) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)).  [accepted at *World Development*]
+[Fractal Urbanism: City Size and Residential Segregation in India](https://www.sciencedirect.com/science/article/pii/S0305750X21000097) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)).  *World Development*, Volume 141, May 2021. 
 
+- [Preprint Version](https://osf.io/preprints/socarxiv/3ycrb/)
 - Non-technical summary: [Residential segregation in urban India and persistence of caste](https://www.ideasforindia.in/topics/urbanisation/residential-segregation-in-urban-india-and-persistence-of-caste-i.html) , Ideas for India, 01 July 2020.
 - Media mention: [The Economist](https://www.economist.com/asia/2020/07/23/even-as-india-urbanises-caste-discrimination-remains-rife)
 
