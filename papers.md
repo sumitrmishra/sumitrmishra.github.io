@@ -32,7 +32,6 @@
 
 (previously circulated as [Public Goods, and Nested Subnational Units:  Diversity, Segregation, or Hierarchy?](https://www.dropbox.com/s/innq7eyh2905dam/DivSegHie_PreprintFeb2019.pdf?dl=0))
 
-- Non-technical summary: [Diversity and public goods: Why the geographical unit of analysis matters](https://www.ideasforindia.in/topics/governance/diversity-and-public-goods-why-the-geographical-unit-of-analysis-matters.html), Ideas for India, 23 November 2020. 
 - Media mention: [Mint](https://www.google.com/url?q=https%3A%2F%2Fwww.livemint.com%2FPolitics%2FSNxvpkiDcejxNS6FhJvOkK%2FCaste-system-in-India-influences-provisioning-of-public-good.html&sa=D&sntz=1&usg=AFQjCNF5R0SNbXcXXllwDv4a1TudnlnQ_A)
 
 
