@@ -25,6 +25,10 @@
 
 
 
+Residential Segregation and Public Services in Urban India (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). [revise and resubmit at _Urban Studies_]
+
+
+
 ## Working Papers
 
 [Stratified Diversity and Public Goods](https://www.dropbox.com/s/xhir5hk536i7xlt/StratDivPreprint.pdf?dl=0) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/))
