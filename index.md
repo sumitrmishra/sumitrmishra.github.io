@@ -19,7 +19,7 @@ A warm welcome to my webpage.
 ~~~
 
 
-My current research examines three aspects of India's economic development:
+My current research examines three aspects of Indian development story:
 
 -  The relationship between caste diversity and access to public goods in villages.
 -  The association between segregation and public goods in cities.
