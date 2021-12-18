@@ -25,7 +25,7 @@
 
 
 
-Residential Segregation and Public Services in Urban India (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). [Accepted at _Urban Studies_]
+[Residential Segregation and Public Services in Urban India](https://www.dropbox.com/s/eexxrn80t2orft2/ResSegPubServ_preprint.pdf) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). [Accepted at _Urban Studies_]
 
 
 
