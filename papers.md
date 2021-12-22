@@ -4,19 +4,19 @@
 
 ## Publications
 
-[Does non-farm income affect food consumption and dietary diversity? Evidence from India](https://www.tandfonline.com/doi/abs/10.1080/00220388.2019.1640871?journalCode=fjds20) (with [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). *The Journal of Development Studies*, 56(6), 1190-1209, June 2020.  
+1. [Does non-farm income affect food consumption and dietary diversity? Evidence from India](https://www.tandfonline.com/doi/abs/10.1080/00220388.2019.1640871?journalCode=fjds20) (with [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). *The Journal of Development Studies*, 56(6), 1190-1209, June 2020.  
 
 - [Preprint Version](https://www.dropbox.com/s/c4rd277iohktgxe/ARSM%28NonFarmDietaryDiversity%29Preprint.pdf)
 - [Slides](https://www.dropbox.com/s/l74wa7114ocfkdr/aaeaBeamer.pdf?dl=0)
 
-[Diversity Deficit and Scale-Flip](https://www.tandfonline.com/doi/abs/10.1080/00220388.2020.1802011) (with [Naveen Bharathi](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fnaveenbharathi%2Fhome&sa=D&sntz=1&usg=AFQjCNEowK4qt19STjYsbO99-pJZVv_jAg), [Deepak Malghan](http://www.google.com/url?q=http%3A%2F%2Fwww.iimb.ac.in%2Fuser%2F44%2Fdeepak-malghan&sa=D&sntz=1&usg=AFQjCNGWX5buViX3-7LdADQUP5zl_lUXEg), and [Andaleeb Rahman](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fandaleebrahman%2F&sa=D&sntz=1&usg=AFQjCNEqaM2hbyCnOjcGOq2fbk543YOeEQ)). [accepted at *The Journal of Development Studies*] .
+2. [Diversity Deficit and Scale-Flip](https://www.tandfonline.com/doi/abs/10.1080/00220388.2020.1802011) (with [Naveen Bharathi](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fnaveenbharathi%2Fhome&sa=D&sntz=1&usg=AFQjCNEowK4qt19STjYsbO99-pJZVv_jAg), [Deepak Malghan](http://www.google.com/url?q=http%3A%2F%2Fwww.iimb.ac.in%2Fuser%2F44%2Fdeepak-malghan&sa=D&sntz=1&usg=AFQjCNGWX5buViX3-7LdADQUP5zl_lUXEg), and [Andaleeb Rahman](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fandaleebrahman%2F&sa=D&sntz=1&usg=AFQjCNEqaM2hbyCnOjcGOq2fbk543YOeEQ)). [accepted at *The Journal of Development Studies*] .
 
 - [Preprint Version](https://www.dropbox.com/s/q4qu5sy9h74zabn/scaleFlipWP.pdf)
 - Non-technical summary: [Diversity and public goods: Why the geographical unit of analysis matters](https://www.ideasforindia.in/topics/governance/diversity-and-public-goods-why-the-geographical-unit-of-analysis-matters.html), Ideas for India, 23 November 2020.
 
 
 
-[Fractal Urbanism: City Size and Residential Segregation in India](https://www.sciencedirect.com/science/article/pii/S0305750X21000097) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)).  *World Development*, Volume 141, May 2021. 
+3. [Fractal Urbanism: City Size and Residential Segregation in India](https://www.sciencedirect.com/science/article/pii/S0305750X21000097) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)).  *World Development*, Volume 141, May 2021. 
 
 - [Preprint Version](https://osf.io/preprints/socarxiv/3ycrb/)
 - [Andaleeb's presentation at Centre for Policy Research, New Delhi](https://www.youtube.com/watch?v=zMz4Y9DfLns&ab_channel=CentreforPolicyResearch)
@@ -25,7 +25,7 @@
 
 
 
-[Residential Segregation and Public Services in Urban India](https://www.dropbox.com/s/eexxrn80t2orft2/ResSegPubServ_preprint.pdf) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). [Accepted at _Urban Studies_]
+4. [Residential Segregation and Public Services in Urban India](https://www.dropbox.com/s/eexxrn80t2orft2/ResSegPubServ_preprint.pdf) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). [Accepted at _Urban Studies_]
 
 
 
