@@ -35,7 +35,7 @@ Status Inequality and Public Goods (with [Naveen Bharathi](https://sites.google.
 
 _previously circulated as_:
 
-([Stratified Diversity and Public Goods](https://www.dropbox.com/s/xhir5hk536i7xlt/StratDivPreprint.pdf?dl=0) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)))
+([Stratified Diversity and Public Goods](https://www.dropbox.com/s/xhir5hk536i7xlt/StratDivPreprint.pdf?dl=0)
 
 ([Public Goods, and Nested Subnational Units:  Diversity, Segregation, or Hierarchy?](https://www.dropbox.com/s/innq7eyh2905dam/DivSegHie_PreprintFeb2019.pdf?dl=0))
 
