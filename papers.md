@@ -25,17 +25,20 @@
 
 
 
-4. [Residential Segregation and Public Services in Urban India](https://www.dropbox.com/s/eexxrn80t2orft2/ResSegPubServ_preprint.pdf) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). [Accepted at _Urban Studies_]
+4. [Residential Segregation and Public Services in Urban India](https://www.dropbox.com/s/eexxrn80t2orft2/ResSegPubServ_preprint.pdf) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). *Urban Studies*, 59(14), 2912–2932, 2022. 
 
 
 
 ## Working Papers
 
-[Stratified Diversity and Public Goods](https://www.dropbox.com/s/xhir5hk536i7xlt/StratDivPreprint.pdf?dl=0) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/))
+Status Inequality and Public Goods (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). [Revise and resubmit at _World Development_]
 
-(previously circulated as [Public Goods, and Nested Subnational Units:  Diversity, Segregation, or Hierarchy?](https://www.dropbox.com/s/innq7eyh2905dam/DivSegHie_PreprintFeb2019.pdf?dl=0))
+_previously circulated as_:
+([Stratified Diversity and Public Goods](https://www.dropbox.com/s/xhir5hk536i7xlt/StratDivPreprint.pdf?dl=0) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)))
 
-- Media mention: [Mint](https://www.google.com/url?q=https%3A%2F%2Fwww.livemint.com%2FPolitics%2FSNxvpkiDcejxNS6FhJvOkK%2FCaste-system-in-India-influences-provisioning-of-public-good.html&sa=D&sntz=1&usg=AFQjCNF5R0SNbXcXXllwDv4a1TudnlnQ_A)
+([Public Goods, and Nested Subnational Units:  Diversity, Segregation, or Hierarchy?](https://www.dropbox.com/s/innq7eyh2905dam/DivSegHie_PreprintFeb2019.pdf?dl=0))
+
+  - Media mention: [Mint](https://www.google.com/url?q=https%3A%2F%2Fwww.livemint.com%2FPolitics%2FSNxvpkiDcejxNS6FhJvOkK%2FCaste-system-in-India-influences-provisioning-of-public-good.html&sa=D&sntz=1&usg=AFQjCNF5R0SNbXcXXllwDv4a1TudnlnQ_A)
 
 
 
