@@ -25,5 +25,5 @@ My current research examines three aspects of Indian development story:
 -  The association between segregation and public goods in cities.
 - The movement from farm to non-farm occupations (_structural transformation_).
 
-A copy of my CV can be found [here](https://www.dropbox.com/s/6488h51g7c333dv/CV_SM.pdf).
+A copy of my CV can be found [here](https://www.dropbox.com/s/c2957hstc3z80bb/CV_SM.pdf).
 
