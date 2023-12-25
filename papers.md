@@ -29,10 +29,7 @@
   - Media mention: [Article 14](https://article-14.com/post/muslims-dalits-face-the-worst-residential-segregation-discrimination-in-urban-cities-study-confirms-628c3e5162638)
 
 
-
-## Working Papers
-
-Status Inequality and Public Goods (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). [Revise and resubmit at _World Development_]
+5. Status Inequality and Public Goods (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). [Revise and resubmit at _World Development_]
 
 _previously circulated as_:
 
@@ -43,5 +40,9 @@ _previously circulated as_:
   - Media mention: [Mint](https://www.google.com/url?q=https%3A%2F%2Fwww.livemint.com%2FPolitics%2FSNxvpkiDcejxNS6FhJvOkK%2FCaste-system-in-India-influences-provisioning-of-public-good.html&sa=D&sntz=1&usg=AFQjCNF5R0SNbXcXXllwDv4a1TudnlnQ_A)
 
 
+## Working Papers
+
+
+[Whither Persistence?](https://www.isid.ac.in/~acegd/acegd2023/papers/SumitMishra.pdf) (with Karthik Rao Cavale)
 
 [Transport Mode Choice for Commuting: Evidence from India](https://osf.io/preprints/socarxiv/qh8m5/) (with [S Chandrasekhar](http://www.igidr.ac.in/faculty/chandra/) and [Ajay Sharma](https://sites.google.com/site/ajayiim2015/home))
