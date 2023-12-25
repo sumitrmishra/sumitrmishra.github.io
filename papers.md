@@ -9,7 +9,7 @@
   - [Preprint Version](https://www.dropbox.com/s/c4rd277iohktgxe/ARSM%28NonFarmDietaryDiversity%29Preprint.pdf)
   - [Slides](https://www.dropbox.com/s/l74wa7114ocfkdr/aaeaBeamer.pdf?dl=0)
 
-2. [Diversity Deficit and Scale-Flip](https://www.tandfonline.com/doi/abs/10.1080/00220388.2020.1802011) (with [Naveen Bharathi](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fnaveenbharathi%2Fhome&sa=D&sntz=1&usg=AFQjCNEowK4qt19STjYsbO99-pJZVv_jAg), [Deepak Malghan](http://www.google.com/url?q=http%3A%2F%2Fwww.iimb.ac.in%2Fuser%2F44%2Fdeepak-malghan&sa=D&sntz=1&usg=AFQjCNGWX5buViX3-7LdADQUP5zl_lUXEg), and [Andaleeb Rahman](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fandaleebrahman%2F&sa=D&sntz=1&usg=AFQjCNEqaM2hbyCnOjcGOq2fbk543YOeEQ)). [accepted at *The Journal of Development Studies*] .
+2. [Diversity Deficit and Scale-Flip](https://www.tandfonline.com/doi/abs/10.1080/00220388.2020.1802011) (with [Naveen Bharathi](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fnaveenbharathi%2Fhome&sa=D&sntz=1&usg=AFQjCNEowK4qt19STjYsbO99-pJZVv_jAg), [Deepak Malghan](http://www.google.com/url?q=http%3A%2F%2Fwww.iimb.ac.in%2Fuser%2F44%2Fdeepak-malghan&sa=D&sntz=1&usg=AFQjCNGWX5buViX3-7LdADQUP5zl_lUXEg), and [Andaleeb Rahman](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fandaleebrahman%2F&sa=D&sntz=1&usg=AFQjCNEqaM2hbyCnOjcGOq2fbk543YOeEQ)). *The Journal of Development Studies*, 57(4), 695-713.
   
   - [Preprint Version](https://www.dropbox.com/s/q4qu5sy9h74zabn/scaleFlipWP.pdf)
   - Non-technical summary: [Diversity and public goods: Why the geographical unit of analysis matters](https://www.ideasforindia.in/topics/governance/diversity-and-public-goods-why-the-geographical-unit-of-analysis-matters.html), Ideas for India, 23 November 2020.
@@ -29,7 +29,7 @@
   - Media mention: [Article 14](https://article-14.com/post/muslims-dalits-face-the-worst-residential-segregation-discrimination-in-urban-cities-study-confirms-628c3e5162638)
 
 
-5. Status Inequality and Public Goods (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). [Revise and resubmit at _World Development_]
+5. Status Inequality and Public Goods (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). [accepted at at _World Development_]
 
 _previously circulated as_:
 
