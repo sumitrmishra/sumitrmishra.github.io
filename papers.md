@@ -29,7 +29,7 @@
   - Media mention: [Article 14](https://article-14.com/post/muslims-dalits-face-the-worst-residential-segregation-discrimination-in-urban-cities-study-confirms-628c3e5162638)
 
 
-5. Status Inequality and Public Goods (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). [accepted at at _World Development_]
+5. Status Inequality and Public Goods (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). [accepted at _World Development_]
 
 _previously circulated as_:
 
