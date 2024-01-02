@@ -26,7 +26,7 @@
 
 
 4. [Residential Segregation and Public Services in Urban India](https://journals.sagepub.com/doi/full/10.1177/00420980211072855) (with [Naveen Bharathi](https://sites.google.com/site/naveenbharathi), [Deepak Malghan](https://www.iimb.ac.in/user/93/deepak-malghan), and [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). *Urban Studies*, 59(14), 2912–2932, 2022.
-  - [Preprint version](https://www.dropbox.com/s/eexxrn80t2orft2/ResSegPubServ_preprint.pdf)
+  - [Preprint version](https://www.dropbox.com/s/bggw7avf2qp7e6d/ResSegPubServ_preprint.pdf)
   - Media mention: [Article 14](https://article-14.com/post/muslims-dalits-face-the-worst-residential-segregation-discrimination-in-urban-cities-study-confirms-628c3e5162638)
 
 
