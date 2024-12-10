@@ -12,6 +12,13 @@ A warm welcome to my webpage.
     </p>
     <p>
     I received my PhD in Development Studies, and M.Sc. in Economics from <a href="https://www.igidr.ac.in">Indira Gandhi Institute of Development Research</a>. My thesis looked into the issue of regional imbalances in Maharashtra. I show that the constitutional mandate in form of the Article 371(2) did not ameliorate regional differences in the state.
+
+    My current research examines four aspects of Indian economic development:
+
+-  The relationship between caste diversity and access to public goods in villages.
+- The association between colonial land institutions and economic outcomes in villages. 
+-  The association between segregation and public goods in cities.
+- The movement from farm to non-farm occupations (_structural transformation_).
     </p>
     <div style="clear: both"></div>      
   </div>
