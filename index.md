@@ -6,7 +6,7 @@ A warm welcome to my webpage.
 ~~~
 <div class="row">
   <div class="container">
-    <img class="left" style="width:50%;" src="assets/pfp-2022.">
+    <img class="left" style="width:50%;" src="assets/pfp-2022.jpg">
     <p>
     I&#39;m an Assistant Professor of Economics at the <a href="https://krea.edu.in/ifmrgsb/">Institute for Financial Management and Research, Sri City</a>. I am also an independent researcher and a research assistant to Professor Naila.
     </p>
