@@ -54,4 +54,12 @@ _previously circulated as_:
 
 Political Mobilization and Election Outcomes: Evidence from Bharat Jodo Yatra (with Utkarsh Choudhary)
 
+Representation Alone? A Comment on "Representation and Forest Conservation: Evidence from India’s
+Scheduled Areas by Gulzar et. al. (2023)" (with Utkarsh Choudhary)
+
+
 ## Other Projects
+Comparison of Human, AI-Assisted, and Quasi-Automated Approaches to Assessing Research Reproducibility in Quantitative Social Science (with Abel Brodeur, David Valenta, Alexandru Marcoci, Juan P. Aparicio, Derek Mikola, Bruno Barbarioli, Rohan Alexander, Lachlan Deer, Tom Stafford, Lars Vilhuber, et al)
+
+[Mass Reproducibility and Replicability: A New Hope](https://docs.iza.org/dp16912.pdf) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al)
+
