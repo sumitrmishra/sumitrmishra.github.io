@@ -52,5 +52,6 @@ _previously circulated as_:
 
 ## Ongoing Projects
 
+Political Mobilization and Election Outcomes: Evidence from Bharat Jodo Yatra (with Utkarsh Choudhary)
 
 ## Other Projects
