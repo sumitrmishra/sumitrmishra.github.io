@@ -52,7 +52,7 @@ _previously circulated as_:
 
 ## Ongoing Projects
 
-Political Mobilization and Election Outcomes: Evidence from Bharat Jodo Yatra (with Utkarsh Choudhary)
+[Political Mobilization and Election Outcomes: Evidence from Bharat Jodo Yatra](https://www.isid.ac.in/~acegd/acegd2024/papers/UtkarshChoudhary.pdf) (with Utkarsh Choudhary)
 
 Representation Alone? A Comment on "Representation and Forest Conservation: Evidence from India’s
 Scheduled Areas by Gulzar et. al. (2023)" (with Utkarsh Choudhary)
