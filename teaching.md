@@ -24,7 +24,7 @@ December 2017 - March 2018: Intermediate Probability Theory [*co-instructor*: [A
 September - December 2018; October 2019 - January 2020; October 2020 - January 2021, October 2023 - January 2024: 
 Impact Evaluation Methods for Business Decisions
 
-July - August 2019, July - September 2020, July - September 2021, January - March 2023, July - September 2024: Introduction to R
+July - August 2019, July - September 2020, July - September 2021, January - March 2023, July - September 2024; January - March 2025: Introduction to R
 
 - [Course Material (2019)](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fsh%2Flyxeba6cgb8q8b3%2FAABAWHbOvNatBjTBewa5YAUpa%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNEkZFnp_o056zB506Cn6Sn-c_67dw)
 - [Course Material (2020)](https://github.com/sumitrmishra/intro-r-workshop)
