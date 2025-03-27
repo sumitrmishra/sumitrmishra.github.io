@@ -33,7 +33,7 @@ October - December 2020: Data Analytics with R
 
 - [Course Repository (2020)](https://github.com/sumitrmishra/data504)
 
-### **PhD-level course**
+### **PhD-level courses:**
 
 January - May 2018: Advanced Econometrics [*co-instructor:* [Amlan Das Gupta](https://jgu.edu.in/jsbf/faculty/amlan-das-gupta/)]
 
