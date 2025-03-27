@@ -37,4 +37,6 @@ October - December 2020: Data Analytics with R
 
 January - May 2018: Advanced Econometrics [*co-instructor:* [Amlan Das Gupta](https://jgu.edu.in/jsbf/faculty/amlan-das-gupta/)]
 
-September 2018 - January 2019, October 2019 - January 2020, July - October 2022:  Advanced Econometrics 
+September 2018 - January 2019, October 2019 - January 2020, July - October 2022:  Advanced Econometrics
+
+January 2023 - March 2023; January 2025 - March 2025: Topics in Development Economics
