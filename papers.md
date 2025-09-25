@@ -59,7 +59,7 @@ Scheduled Areas by Gulzar et. al. (2023)" (with [Utkarsh Choudhary](https://site
 
 
 ## Other Projects
-[Comparison of Human, AI-Assisted, and Quasi-Automated Approaches to Assessing Research Reproducibility in Quantitative Social Science](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) (with Abel Brodeur, David Valenta, Alexandru Marcoci, Juan P. Aparicio, Derek Mikola, Bruno Barbarioli, Rohan Alexander, Lachlan Deer, Tom Stafford, Lars Vilhuber, et al) [_Revised and resubmitted_ at Nature]
+[Comparison of Human, AI-Assisted, and Quasi-Automated Approaches to Assessing Research Reproducibility in Quantitative Social Science](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) (with Abel Brodeur, David Valenta, Alexandru Marcoci, Juan P. Aparicio, Derek Mikola, Bruno Barbarioli, Rohan Alexander, Lachlan Deer, Tom Stafford, Lars Vilhuber, et al)
 
 [Mass Reproducibility and Replicability: A New Hope](https://docs.iza.org/dp16912.pdf) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al)
 
