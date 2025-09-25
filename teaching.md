@@ -9,6 +9,10 @@ October 2023 - January 2024, October 2024 - January 2025: Measuring Impact with 
 
 October 2024 - December 2024: Mathematics for Business-II
 
+July 2025 - September 2025: Mathematical Methods for Economics-I [*co-instructor*: Vidya Bharathi Rajkumar]
+
+- [Course Material](https://github.com/sumitrmishra/econ211/)
+
 ### **MBA-level courses:**
 
 June 2017, 2018: Mathematics for Managers
