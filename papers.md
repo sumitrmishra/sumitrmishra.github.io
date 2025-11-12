@@ -52,14 +52,14 @@ _previously circulated as_:
 
 ## Ongoing Projects
 
-[Political Mobilization and Election Outcomes: Evidence from Bharat Jodo Yatra](https://www.isid.ac.in/~acegd/acegd2024/papers/UtkarshChoudhary.pdf) (with with [Utkarsh Choudhary](https://sites.google.com/view/utkarshchoudhary/home))
+[Political Mobilization and Election Outcomes: Evidence from Bharat Jodo Yatra](https://www.isid.ac.in/~acegd/acegd2024/papers/UtkarshChoudhary.pdf) (with [Utkarsh Choudhary](https://sites.google.com/view/utkarshchoudhary/home))
 
 Representation Alone? A Comment on "Representation and Forest Conservation: Evidence from India’s
 Scheduled Areas by Gulzar et. al. (2023)" (with [Utkarsh Choudhary](https://sites.google.com/view/utkarshchoudhary/home))
 
 
 ## Other Projects
-[Comparison of Human, AI-Assisted, and Quasi-Automated Approaches to Assessing Research Reproducibility in Quantitative Social Science](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) (with Abel Brodeur, David Valenta, Alexandru Marcoci, Juan P. Aparicio, Derek Mikola, Bruno Barbarioli, Rohan Alexander, Lachlan Deer, Tom Stafford, Lars Vilhuber, et al)
+[Comparison of Human, AI-Assisted, and Quasi-Automated Approaches to Assessing Research Reproducibility in Quantitative Social Science](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) (with Abel Brodeur, David Valenta, Alexandru Marcoci, Juan P. Aparicio, Derek Mikola, Bruno Barbarioli, Rohan Alexander, Lachlan Deer, Tom Stafford, Lars Vilhuber, et al) (_Revise and resubmit_ at PNAS)
 
-[Mass Reproducibility and Replicability: A New Hope](https://docs.iza.org/dp16912.pdf) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al)
+[Mass Reproducibility and Replicability: A New Hope](https://docs.iza.org/dp16912.pdf) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al) (_Revise and resubmit_ at Nature)
 
