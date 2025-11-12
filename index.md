@@ -11,7 +11,7 @@ A warm welcome to my webpage.
     I&#39;m an Assistant Professor of Economics at the <a href="https://krea.edu.in/ifmrgsb/">Institute for Financial Management and Research, Sri City</a>. I am also an independent researcher and a research assistant to Professor Naila and Professor Bubble.
     </p>
     <p>
-    I received my PhD in Development Studies, and M.Sc. in Economics from <a href="https://www.igidr.ac.in">Indira Gandhi Institute of Development Research</a>. My [thesis](https://shodhganga.inflibnet.ac.in/handle/10603/412352) looked into the issue of regional imbalances in Maharashtra. I show that the constitutional mandate in form of the Article 371(2) did not ameliorate regional differences in the state.
+    I received my PhD in Development Studies, and M.Sc. in Economics from <a href="https://www.igidr.ac.in">Indira Gandhi Institute of Development Research</a>. My (thesis)[https://shodhganga.inflibnet.ac.in/handle/10603/412352] looked into the issue of regional imbalances in Maharashtra. I show that the constitutional mandate in form of the Article 371(2) did not ameliorate regional differences in the state.
     </p>
     <div style="clear: both"></div>      
   </div>
