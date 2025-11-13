@@ -1,7 +1,5 @@
 # Papers
 
-
-
 ## Publications
 
 1. [Does non-farm income affect food consumption and dietary diversity? Evidence from India](https://www.tandfonline.com/doi/abs/10.1080/00220388.2019.1640871?journalCode=fjds20) (with [Andaleeb Rahman](https://sites.google.com/view/andaleebrahman/)). *The Journal of Development Studies*, 56(6), 1190-1209, June 2020.  
