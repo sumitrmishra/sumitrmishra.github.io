@@ -39,6 +39,9 @@ _previously circulated as_:
   - [Preprint version](https://www.dropbox.com/scl/fi/hqyrdptu0o2ccshwv0h59/statusRefPreprint.pdf)
 
   - Media mention: [Mint](https://www.google.com/url?q=https%3A%2F%2Fwww.livemint.com%2FPolitics%2FSNxvpkiDcejxNS6FhJvOkK%2FCaste-system-in-India-influences-provisioning-of-public-good.html&sa=D&sntz=1&usg=AFQjCNF5R0SNbXcXXllwDv4a1TudnlnQ_A)
+ 
+ [Mass Reproducibility and Replicability: A New Hope](https://docs.iza.org/dp16912.pdf) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al) (conditionally accepted at *Nature*)
+
 
 
 ## Working Papers
@@ -57,7 +60,6 @@ Scheduled Areas by Gulzar et. al. (2023)" (with [Utkarsh Choudhary](https://site
 
 
 ## Other Projects
-[Comparison of Human, AI-Assisted, and Quasi-Automated Approaches to Assessing Research Reproducibility in Quantitative Social Science](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) (with Abel Brodeur, David Valenta, Alexandru Marcoci, Juan P. Aparicio, Derek Mikola, Bruno Barbarioli, Rohan Alexander, Lachlan Deer, Tom Stafford, Lars Vilhuber, et al) (_Revise and resubmit_ at PNAS)
+[Comparison of Human, AI-Assisted, and Quasi-Automated Approaches to Assessing Research Reproducibility in Quantitative Social Science](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) (with Abel Brodeur, David Valenta, Alexandru Marcoci, Juan P. Aparicio, Derek Mikola, Bruno Barbarioli, Rohan Alexander, Lachlan Deer, Tom Stafford, Lars Vilhuber, et al) (_Minor revision_ at PNAS)
 
-[Mass Reproducibility and Replicability: A New Hope](https://docs.iza.org/dp16912.pdf) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al) (conditionally accepted at *Nature*)
 
