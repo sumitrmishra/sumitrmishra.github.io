@@ -40,7 +40,7 @@ _previously circulated as_:
 
   - Media mention: [Mint](https://www.google.com/url?q=https%3A%2F%2Fwww.livemint.com%2FPolitics%2FSNxvpkiDcejxNS6FhJvOkK%2FCaste-system-in-India-influences-provisioning-of-public-good.html&sa=D&sntz=1&usg=AFQjCNF5R0SNbXcXXllwDv4a1TudnlnQ_A)
  
- [Mass Reproducibility and Replicability: A New Hope](https://docs.iza.org/dp16912.pdf) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al) (conditionally accepted at *Nature*)
+6.  [Mass Reproducibility and Replicability: A New Hope](https://docs.iza.org/dp16912.pdf) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al) (conditionally accepted at *Nature*)
 
 
 
