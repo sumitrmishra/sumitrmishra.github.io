@@ -1,8 +1,6 @@
 # Sumit Mishra
 
 
-A warm welcome to my webpage.
-
 ~~~
 <div class="row">
   <div class="container">

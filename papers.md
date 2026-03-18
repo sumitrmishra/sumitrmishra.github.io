@@ -42,14 +42,17 @@ _previously circulated as_:
  
 6.  [Mass Reproducibility and Replicability: A New Hope](https://docs.iza.org/dp16912.pdf) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al) (conditionally accepted at *Nature*)
 
+7. [Comparison of Human, AI-Assisted, and Quasi-Automated Approaches to Assessing Research Reproducibility in Quantitative Social Science](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) (with Abel Brodeur, David Valenta, Alexandru Marcoci, Juan P. Aparicio, Derek Mikola, Bruno Barbarioli, Rohan Alexander, Lachlan Deer, Tom Stafford, Lars Vilhuber, et al) (_forthcoming_ at *PNAS*)
+
+
 
 
 ## Working Papers
 
-
 [Whither Persistence?](https://www.isid.ac.in/~acegd/acegd2023/papers/SumitMishra.pdf) (with Karthik Rao Cavale)
 
 [Transport Mode Choice for Commuting: Evidence from India](https://osf.io/preprints/socarxiv/qh8m5/) (with [S Chandrasekhar](http://www.igidr.ac.in/faculty/chandra/) and [Ajay Sharma](https://sites.google.com/site/ajayiim2015/home))
+
 
 ## Ongoing Projects
 
@@ -58,8 +61,5 @@ _previously circulated as_:
 Representation Alone? A Comment on "Representation and Forest Conservation: Evidence from India’s
 Scheduled Areas by Gulzar et. al. (2023)" (with [Utkarsh Choudhary](https://sites.google.com/view/utkarshchoudhary/home))
 
-
-## Other Projects
-[Comparison of Human, AI-Assisted, and Quasi-Automated Approaches to Assessing Research Reproducibility in Quantitative Social Science](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) (with Abel Brodeur, David Valenta, Alexandru Marcoci, Juan P. Aparicio, Derek Mikola, Bruno Barbarioli, Rohan Alexander, Lachlan Deer, Tom Stafford, Lars Vilhuber, et al) (_Minor revision_ at PNAS)
 
 
