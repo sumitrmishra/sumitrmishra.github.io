@@ -33,6 +33,7 @@
     - Media mention: [Mint](https://www.google.com/url?q=https%3A%2F%2Fwww.livemint.com%2FPolitics%2FSNxvpkiDcejxNS6FhJvOkK%2FCaste-system-in-India-influences-provisioning-of-public-good.html&sa=D&sntz=1&usg=AFQjCNF5R0SNbXcXXllwDv4a1TudnlnQ_A)
  
 6. [Reproducibility and robustness of economics and political science research](https://www.nature.com/articles/s41586-026-10251-x) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al). *Nature*, 652, 151–156, 2026.
+    - [Preprint Version](https://www.econstor.eu/bitstream/10419/338965/1/I4R-DP287.pdf)
     - _previously circulated as_:
         - [Mass Reproducibility and Replicability: A New Hope](https://docs.iza.org/dp16912.pdf) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al)
 
