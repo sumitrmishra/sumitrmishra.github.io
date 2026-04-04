@@ -3,6 +3,10 @@
 ## 2025-26
 
 - Mathematical Methods for Economics-I (UG, with [Vidya Bharathi Rajkumar](https://krea.edu.in/ifmrgsb/vidya-bharathi-rajkumar/)) — [Course Material](https://github.com/sumitrmishra/econ211/)
+- Macroeconomics (MBA)
+- Measuring Impact with A/B Testing (UG)
+- Introduction to R (MBA)
+- Quantitative Research Methods for Humanities & Social Sciences (UG)
 
 ## 2024-25
 
