@@ -258,6 +258,29 @@ code {
 .hljs-metap { color: rgb(51, 131, 231); }
 
 /* ==================================================================
+    SOCIAL ICONS
+================================================================== */
+
+.social-icons {
+    position: absolute;
+    bottom: 40px;
+    display: flex;
+    gap: 14px;
+}
+
+.social-icons a svg {
+    width: 22px;
+    height: 22px;
+    fill: #bbb;
+    display: block;
+    transition: fill 0.2s;
+}
+
+.social-icons a:hover svg {
+    fill: #4a7c74;
+}
+
+/* ==================================================================
     PAPER ENTRIES
 ================================================================== */
 
