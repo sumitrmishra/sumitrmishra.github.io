@@ -5,7 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		{{if hasmath}} {{insert head_katex.html }} 		{{end}}
         {{if hascode}} {{insert head_highlight.html }} 	{{end}}
-			<link rel="stylesheet" href="/css/franklin.css">
+			<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wdth,wght@75..125,200..900&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="/css/franklin.css">
 	        <link rel="icon" href="/assets/favicon-32x32.png">
 		{{isdef title}} <title>{{fill title}}</title>	{{end}}
 	</head>
@@ -17,6 +20,7 @@
                     <li><a href="/">Home</a></li>
                     <li><a href="/papers">Research</a></li>
                     <li><a href="/teaching">Teaching</a></li>
+                    <li><a href="/cv">CV</a></li>
 					<li><a href="/personal">Personal</a></li>
                 </ul>
                 <img src="/assets/hamburger.svg" id="menu-icon">

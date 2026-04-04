@@ -32,11 +32,7 @@
     - [Preprint version](https://www.dropbox.com/scl/fi/hqyrdptu0o2ccshwv0h59/statusRefPreprint.pdf)
     - Media mention: [Mint](https://www.google.com/url?q=https%3A%2F%2Fwww.livemint.com%2FPolitics%2FSNxvpkiDcejxNS6FhJvOkK%2FCaste-system-in-India-influences-provisioning-of-public-good.html&sa=D&sntz=1&usg=AFQjCNF5R0SNbXcXXllwDv4a1TudnlnQ_A)
  
-6.  [Reproducibility and robustness of economics and political science research](https://www.nature.com/articles/s41586-026-10251-x) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al). [*Nature*, 652, 151–156 (2026)]
-    - _previously circulated as_: 
-        - [Mass Reproducibility and Replicability: A New Hope](https://docs.iza.org/dp16912.pdf) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al) (conditionally accepted at *Nature*)
-    - [Preprint version](https://www.dropbox.com/scl/fi/ls1vmyq8fd5el4fe0p4k2/08reproducibility2026.pdf?rlkey=g2wjkhu434dpjjos5o5dpflml&st=t0k88xdy&dl=0)
-    - [Appendix](https://www.dropbox.com/scl/fi/2aeoze0jfqvbp15jczhn8/08reproducibility2026appendix.pdf?rlkey=6nokx9ch7pq3cl9giyr3zqeud&st=3u9ewg3f&dl=0)
+6.  [Mass Reproducibility and Replicability: A New Hope](https://docs.iza.org/dp16912.pdf) (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al) (conditionally accepted at *Nature*)
 
 7. [Comparison of Human, AI-Assisted, and Quasi-Automated Approaches to Assessing Research Reproducibility in Quantitative Social Science](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) (with Abel Brodeur, David Valenta, Alexandru Marcoci, Juan P. Aparicio, Derek Mikola, Bruno Barbarioli, Rohan Alexander, Lachlan Deer, Tom Stafford, Lars Vilhuber, et al) (_forthcoming_ at *PNAS*)
 
