@@ -47,24 +47,13 @@
 
 5. "Status inequality and public goods" (with Naveen Bharathi, Deepak Malghan, and Andaleeb Rahman). *World Development*, 176, 106526, 2024.
 
+6. "Reproducibility and robustness of economics and political science research" (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al). *Nature*, 652, 151-156,2026.
+
+7. "Comparison of Human, AI-Assisted, and Quasi-Automated Approaches to Assessing Research Reproducibility in Quantitative Social Science" (with Abel Brodeur, David Valenta, Alexandru Marcoci, et al). *PNAS* (forthcoming).
+
 ## Teaching
 
-| Course | Level | Type | Timeline |
-|---|---|---|---|
-| Mathematics for Managers | MBA | Preparatory | 2017–2022 |
-| Macroeconomics | MBA | Core | 2017–present |
-| Introduction to R | MBA/PhD | Workshop | 2018–present |
-| Advanced Econometrics | PhD | Elective | 2018–present |
-| Impact Evaluation Methods for Business Decisions | MBA | Elective | 2018–present |
-| Measuring Impact with A/B Testing | BA | Elective | 2023–present |
-| Data Analytics with R | MBA | Elective | 2020–2021 |
-| Foundations of Development | MBA | Core | 2018 |
-| Intermediate Probability Theory | MBA | Core | 2018 |
-| Mathematics for Data Science | MBA | Core | 2018 |
-| Mathematics for Business-II | BBA | Core | 2024 |
-| Mathematics for Data Science | Data Science Certificate | Core | 2018 |
-| Econometrics for Data Science | Data Science Certificate | Elective | 2018 |
-| Forecasting Analytics | Data Science Certificate | Elective | 2019 |
+See [Teaching](/teaching) for the complete list of courses.
 
 ## Grants and Awards
 
