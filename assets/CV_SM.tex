@@ -1,0 +1,381 @@
+% TEX PROGRAM = xelatex
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[10pt]{article}
+
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp} % provide euro and other symbols
+\usepackage{libertine} % Libertine for PDFTeX
+\else % if luatex or xetex
+\usepackage{unicode-math}
+\defaultfontfeatures{Scale=MatchLowercase}
+\defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\setmainfont{Linux Libertine O} % Libertine for XeTeX/LuaTeX
+\setmonofont{IBM Plex Mono}[Scale=0.88]
+\fi
+
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+	\usepackage[]{microtype}
+	\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+	\IfFileExists{parskip.sty}{%
+		\usepackage{parskip}
+	}{% else
+		\setlength{\parindent}{0pt}
+		\setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+	\KOMAoptions{parskip=half}}
+\makeatother
+
+\usepackage{xcolor}
+\usepackage[top=10mm,left=15mm,right=15mm,bottom=5mm,heightrounded]{geometry}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+% Make \paragraph and \subparagraph free-standing
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+
+% Scale images if necessary
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+\usepackage{multicol}
+\setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}
+\setlength{\columnsep}{3em}
+
+\ifLuaTeX
+\usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor={blue},
+	filecolor={Maroon},
+	citecolor={Blue},
+	urlcolor={Blue},
+	pdfcreator={LaTeX via pandoc}}
+
+\pagestyle{empty}
+
+\author{}
+\date{}
+
+\begin{document}
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[breakable, frame hidden, interior hidden, borderline west={3pt}{0pt}{shadecolor}, enhanced, sharp corners, boxrule=0pt]}{\end{tcolorbox}}\fi
+
+\begin{huge}\begin{center}{\bf Sumit Mishra}\end{center}\end{huge}
+
+\begin{center}sumit.mishra (at) krea (dot) edu (dot) in ∙ \href{https://sumitrmishra.github.io/}{Personal Website} ∙ \href{https://github.com/sumitrmishra}{Github} 
+\end{center}
+\vspace{15pt}
+
+
+%\includegraphics[width=4cm]{photo_50kb.jpg}
+
+%\textbf{NATIONALITY}: Indian
+
+\textbf{Contact Address}: Krea University, 5655, Central Expressway, Sri
+City, Andhra Pradesh. Pincode: 517646.
+
+\textbf{Phone}: +91-7506824634
+
+\begin{large}
+  {\bf EDUCATION}
+\end{large}
+  \vspace{3pt}
+  \hrule
+    \begin{flushleft}{\bf Indira Gandhi Institute of Development Research,
+     Mumbai, Maharashtra}\end{flushleft}
+     \begin{itemize}
+  \item PhD, Development Studies, 2018.
+  \item M.Sc., Economics, 2010.
+       % \begin{itemize}
+       % \item Overall Grades: 3.05/4
+       % \end{itemize}
+  \end{itemize}
+
+\vspace{0.2cm}
+
+\begin{flushleft}{\bf University of Allahabad, Allahabad, Uttar Pradesh}\end{flushleft}
+\begin{itemize}  
+	\item B.A., Economics, Geography, and English Literature.  2008.
+    %\begin{itemize}
+    %\item Overall Percentage: 66.37\%
+    %\end{itemize}
+\end{itemize}
+
+\vspace{3pt}
+
+\vspace{0.4cm}
+
+\begin{large}{\bf WORK EXPERIENCE}\end{large}
+  \vspace{3pt}
+  \hrule
+
+\section*{ Full-time Academic Experience}
+   \begin{multicols}{2}
+    \begin{flushleft}{\bf Krea University, Sri City}\end{flushleft}
+    \begin{flushright}June 2018-Present\end{flushright}
+  \end{multicols}
+  \vspace{-.3cm}
+
+\textit{Assistant Professor}
+
+\section*{Other Academic Experience}
+
+\begin{multicols}{2}
+    \begin{flushleft}{\bf ICAS, New Delhi}\end{flushleft}
+    \begin{flushright}December 2018 - May 2019\end{flushright}
+  \end{multicols}
+  \vspace{-0.3cm}
+
+\textit{Postdoctoral Fellow}
+
+\vspace{0.3cm}
+
+\begin{multicols}{2}
+    \begin{flushleft}{\bf IFMR, Sri City}\end{flushleft}
+    \begin{flushright}April 2017 - June 2018\end{flushright}
+  \end{multicols}
+  \vspace{-.3cm}
+
+\textit{Senior Faculty Associate}
+
+\vspace{0.3cm}
+
+\begin{multicols}{2}
+    \begin{flushleft}{\bf SHRAMIC, IGIDR, Mumbai}\end{flushleft}
+    \begin{flushright}August 2016 - March 2017\end{flushright}
+  \end{multicols}
+  \vspace{-.3cm}
+
+\textit{Research Associate}
+
+\vspace{0.3cm}
+
+\begin{multicols}{2}
+    \begin{flushleft}{\bf SPANDAN, IGIDR, Mumbai}\end{flushleft}
+    \begin{flushright}January 2016 - June 2016\end{flushright}
+  \end{multicols}
+  \vspace{-.3cm}
+
+\textit{Research Associate}
+
+\section*{Full-time Industry Experience}
+
+\begin{multicols}{2}
+    \begin{flushleft}{\bf  TCS e-Serve Ltd., Mumbai}\end{flushleft}
+    \begin{flushright} June 2010 - November 2011\end{flushright}
+  \end{multicols}
+  \vspace{-.3cm}
+
+\textit{Assistant Manager}
+
+\section*{Other Experience}
+
+\begin{multicols}{2}
+    \begin{flushleft}{\bf  Mint, New Delhi}\end{flushleft}
+    \begin{flushright} September 2015 - March 2018\end{flushright}
+  \end{multicols}
+  \vspace{-.3cm}
+
+\textit{Consultant}
+
+
+\clearpage
+
+\begin{large}{\bf RESEARCH}\end{large}
+\vspace{3pt}
+  \hrule
+
+\textbf{Research Areas:} Development Economics, Political Economy,
+Public Economics.
+
+\section*{\sc Publications}
+\begin{itemize}
+\item[1] "Does non-farm income affect food security? Evidence from India" (with Andaleeb Rahman) 
+
+[the \textit{Journal of Development Studies, 56.6 (2020): 1190-1209}.] 
+
+\item[2] "Diversity Deficit and Scale-Flip" (with Naveen Bharathi, Deepak Malghan, and Andaleeb Rahman).
+
+[the \textit{Journal of Development Studies, 57.4 (2021): 695-713}.] 
+
+
+\item[3] "Fractal Urbanism: City Size and Residential Segregation in India" (with Naveen Bharathi, Deepak Malghan, and Andaleeb Rahman).
+
+[\textit{World Development, 141 (2021): 105397}.]
+
+\item[4] "Residential Segregation and Public Services in Urban India" (with Naveen Bharathi, Deepak Malghan, and Andaleeb Rahman).
+
+[\textit{Urban Studies, 59.14 (2022): 2912-2932}.]
+
+
+\item[5] "Status inequality and public goods" (with Naveen Bharathi, Deepak Malghan, and Andaleeb Rahman).
+
+[\textit{World Development, 176 (2024): 106526}.]
+
+\end{itemize}
+
+\section*{\sc Conferences and Invited Seminars}
+
+\begin{itemize}
+\item[2024] \textit{58th Annual Conference of The Indian Econometric Society}, Agartala; \textit{International Conference on "Recent Developments in Economics Research: Theory and Evidence"}, JNU, New Delhi; \textit{Population Association of America, Annual Meeting}, Columbus, Ohio.
+\item[2023] \textit{SAMVAAD}; \textit{Annual Conference on Economic Growth and Development}, ISI, New Delhi.
+\item[2019] \textit{Population Association of America, Annual Meeting}, Austin, Texas; \textit{Development Economics and Policy Conference}, DIW Berlin, Germany; \textit{Nordic Conference on Development Economics}, Copenhagen; 
+\textit{The 1st Conference on Urban Economics and Public Services in Developing Countries}, Guangzhou, China; \textit{PEGNet Conference}, Bonn, Germany; \textit{Winter School 2019}, Delhi School of Economics, Delhi. 
+\item[2018] \textit{Population Association of America, Annual Meeting}, Denver, US; \textit{Annual Conference on Economic Growth and Development}, ISI Delhi.
+\item[2017] \textit{Global Food Symposium}, G\"ottingen, Germany; \textit{PEGNet Conference}, Zurich, Switzerland.
+\item[2016] \textit{ADBI-SU Workshop on Urbanization in Asia}, Seoul, South Korea; \textit{TIES Conference}, Kozhikode 
+\item[2015] \textit{HDCA Conference}, Georgetown University, US.
+\item[2014] \textit{IGIDR-ISI Doctoral Workshop}, IGIDR, Mumbai.
+
+\end{itemize}
+
+\section*{\sc Grants and Fellowships}
+
+\begin{itemize}
+\item IFMR Social Science Fellowship (2024), with Karthik Rao Cavale.
+\item Krea Faculty Fellowships (2022-2023), with Karthik Rao Cavale.
+\item IGIDR PhD Fellowship (2012-2016).
+\end{itemize}
+
+\section*{PhD Supervision}
+
+\begin{itemize}
+	\item Kumar Ashutosh (2020-ongoing)
+	\item Utkarsh Chaudhary (2020-ongoing)
+	\item Mohammed Hashim (2021-ongoing)
+\end{itemize}
+
+\clearpage
+
+\section*{Academic Service}
+
+\begin{itemize}
+\item[] \textbf{Referee Service}
+        \begin{itemize}
+        \item[] \textit{Journal of Quantitative Economics}, \textit{India Review}, \textit{Journal of Urban Affairs}, \textit{Review of Development Economics}
+        \end{itemize}
+\item[] \textbf{Institutional Service}
+        \begin{itemize}
+        \item[] Member, Organizing Committee, Research Symposium on Finance and Economics (RSFE), 2019-2023.
+        \item[] Member, Admission Committee, IFMR GSB Krea University, 2021-Present.
+        \item[] Member, Ranking and Accreditation Committee, IFMR GSB Krea University, 2019-2022.
+        \item[] Area Chair, Economics Area, IFMR GSB Krea University, 2024-Present.
+        \end{itemize}
+\end{itemize}
+
+
+\vspace{6pt}
+
+\begin{large}{\bf TEACHING EXPERIENCE}\end{large}
+  \vspace{3pt}
+  \hrule
+
+\begin{tabular}[t]{llll}
+\toprule
+\textbf{Course} & \textbf{Level} & \textbf{Type} & \textbf{Timeline}\\
+\midrule
+Mathematics for Managers & MBA & Preparatory & 2017-2022\\
+Macroeconomics & MBA & Core & 2017- present\\
+Introduction to R & MBA/PhD & Workshop & 2018- present\\
+Advanced Econometrics & PhD & Elective & 2018- present\\
+Impact Evaluation Methods for Business Decisions & MBA & Elective & 2018- present\\
+\addlinespace
+Measuring Impact with A/B Testing & BA & Elective & 2023-present \\
+Data Analytics with R & MBA & Elective & 2020-2021\\
+Foundations of Development & MBA & Core & 2018\\
+Intermediate Probability Theory & MBA & Core & 2018\\
+Mathematics for Data Science & MBA & Core & 2018\\
+Mathematics for Business-II & BBA & Core & 2024 \\
+\addlinespace
+Mathematics for Data Science & Data Science Certificate Program & Core & 2018\\
+Econometrics for Data Science & Data Science Certificate Program & Elective & 2018\\
+Forecasting Analytics & Data Science Certificate Program & Elective & 2019\\
+\bottomrule
+\end{tabular}
+
+\section{\sc Computer Skills} 
+\begin{itemize}
+\item Statistical Packages:  R, Stata, SAS, Python, Julia.
+\item Operating Systems:  Unix/Linux, Windows.
+\end{itemize}
+
+\section{\sc Writings in Popular Press}
+
+My writing for the business newspaper \textit{Mint} can be accessed
+using the following link:
+\url{http://www.livemint.com/Search/Link/Author/Sumit\%20Mishra}
+
+\section{\sc Personal Information}
+
+Languages: Hindi (fluent), English (fluent), Urdu (working)
+
+Citizenship: Indian
+
+\section{\sc References}
+
+Available upon request.
+
+%\begin{tabular}[t]{c@{\extracolsep{8em}}c} 
+%  S.Chandrasekhar  & C. Veeramani \\
+%  Professor & Director \\ 
+%  IGIDR, Mumbai & CDS, Trivandrum \\
+%  email: \href{mailto:chandra@igidr.ac.in}{\texttt{chandra@igidr.ac.in}}  & email: \href{mailto:veeramani@igidr.ac.in}{\texttt{veeramani@igidr.ac.in}} 
+%\end{tabular}
+
+
+
+\end{document}
