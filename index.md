@@ -20,7 +20,6 @@
       <li>The association between segregation and public goods in cities.</li>
       <li>The movement from farm to non-farm occupations (<em>structural transformation</em>).</li>
     </ul>
-    <p>A copy of my CV can be found <a href="https://www.dropbox.com/scl/fi/pfjv48j9b948oowb77823/CV_SM.pdf?rlkey=13ca6pok98wevzch0xuzpjqio&st=xayhiji5&dl=0">here</a>.</p>
   </div>
 </div>
 ~~~
