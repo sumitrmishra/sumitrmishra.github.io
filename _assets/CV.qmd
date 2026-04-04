@@ -45,7 +45,7 @@ format:
 #text(font: "PT Mono", size: 8.5pt, fill: rgb("#4CAF50"))[
   #link("mailto:sumit.mishra@krea.edu.in")[sumit.mishra\@krea.edu.in] #h(0.3em)|#h(0.3em)
   #link("https://sumitrmishra.github.io")[sumitrmishra.github.io] #h(0.3em)|#h(0.3em)
-  #link("https://github.com/mishrasumit09")[github/sumitrmishra] #h(0.3em)|#h(0.3em)
+  #link("https://github.com/mishrasumit09")[github/mishrasumit09] #h(0.3em)|#h(0.3em)
   750-682-4634
 ]
 #v(0.5em)
@@ -97,6 +97,10 @@ format:
 4. "Residential Segregation and Public Services in Urban India" (with Naveen Bharathi, Deepak Malghan, and Andaleeb Rahman). *Urban Studies*, 59(14), 2912–2932, 2022.
 
 5. "Status inequality and public goods" (with Naveen Bharathi, Deepak Malghan, and Andaleeb Rahman). *World Development*, 176, 106526, 2024.
+
+6. "Reproducibility and robustness of economics and political science research" (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al). *Nature*, 652, 151–156, 2026.
+
+7. "Comparison of Human, AI-Assisted, and Quasi-Automated Approaches to Assessing Research Reproducibility in Quantitative Social Science" (with Abel Brodeur, David Valenta, Alexandru Marcoci, et al). *PNAS* (forthcoming).
 
 ## Teaching
 
