@@ -342,3 +342,63 @@ code {
     border-radius: 0 10px 10px 0;
     border-left: 5px solid #4C9CF1;
 }
+
+
+/* ==================================================================
+    RESPONSIVE DESIGN
+================================================================== */
+@media (max-width: 768px) {
+    body {
+        margin-left: 0;
+        overflow-x: hidden;
+        font-size: 16px;
+    }
+
+    header {
+        position: relative;
+        width: 100%;
+        height: auto;
+        padding: 12px 16px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 8px;
+        border-bottom: 1px solid #ddd;
+    }
+
+    nav ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0;
+        padding: 0;
+        margin: 0;
+    }
+
+    nav li a {
+        font-size: 14px;
+        padding: 4px 8px;
+    }
+
+    .social-icons {
+        position: static;
+        margin-left: auto;
+        gap: 10px;
+    }
+
+    .social-icons a svg {
+        width: 18px;
+        height: 18px;
+    }
+
+    .franklin-content {
+        padding: 16px;
+    }
+
+    .bio-flex {
+        flex-direction: column !important;
+    }
+
+    .bio-flex > div:first-child {
+        width: 100% !important;
+    }
+}

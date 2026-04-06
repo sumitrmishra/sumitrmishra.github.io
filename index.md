@@ -1,7 +1,7 @@
 # Sumit Mishra
 
 ~~~
-<div style="display:flex; gap:2.5em; align-items: flex-start; margin: 1.5em 0;">
+<div class="bio-flex" style="display:flex; gap:2.5em; align-items: flex-start; margin: 1.5em 0;">
   <div style="width:30%; flex-shrink:0;">
     <img src="assets/booloo.jpeg" style="width:100%; border-radius:10px; display:block;">
   </div>
@@ -20,6 +20,7 @@
       <li>The association between segregation and public goods in cities.</li>
       <li>The movement from farm to non-farm occupations (<em>structural transformation</em>).</li>
     </ul>
+
   </div>
 </div>
 ~~~
