@@ -84,8 +84,6 @@ See [Teaching](/teaching) for the complete list of courses.
 
 ### PhD Students
 
-- Kumar Ashutosh (2020–ongoing)
-- Utkarsh Chaudhary (2020–ongoing)
 - Mohammed Hashim (2021–ongoing)
 
 ### Undergraduate Thesis
