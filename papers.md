@@ -33,10 +33,3 @@
 [Whither Persistence?](https://www.isid.ac.in/~acegd/acegd2023/papers/SumitMishra.pdf) (with Karthik Rao Cavale)
 
 [Transport Mode Choice for Commuting: Evidence from India](https://osf.io/preprints/socarxiv/qh8m5/) (with [S Chandrasekhar](http://www.igidr.ac.in/faculty/chandra/) and [Ajay Sharma](https://sites.google.com/site/ajayiim2015/home))
-
-
-## Ongoing Projects
-
-[Political Mobilization and Election Outcomes: Evidence from Bharat Jodo Yatra](https://www.isid.ac.in/~acegd/acegd2024/papers/UtkarshChoudhary.pdf) (with [Utkarsh Choudhary](https://sites.google.com/view/utkarshchoudhary/home))
-
-Representation Alone? A Comment on "Representation and Forest Conservation: Evidence from India's Scheduled Areas by Gulzar et. al. (2023)" (with [Utkarsh Choudhary](https://sites.google.com/view/utkarshchoudhary/home))
