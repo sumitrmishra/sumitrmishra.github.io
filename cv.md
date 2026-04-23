@@ -90,6 +90,8 @@ See [Teaching](/teaching) for the complete list of courses.
 
 - Ritvic Paarekh (2025-2026)
 
+- Akash Hattimani (2026-2027)
+
 ## Skills
 
 ### Computation
